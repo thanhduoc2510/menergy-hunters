@@ -1,0 +1,25 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "rooms": {
+      "$room": {
+        "scores": {
+          ".read": true,
+          ".indexOn": ["s"],
+          "$id": {
+            ".write": "!data.exists() && newData.exists()",
+            ".validate": "newData.hasChildren(['n', 's', 'h', 'ts'])",
+            "n": { ".validate": "newData.isString() && newData.val().length >= 1 && newData.val().length <= 16" },
+            "s": { ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 40000" },
+            "h": { ".validate": "newData.isString() && newData.val().matches(/^(swordsman|knight|archer|wizard)$/)" },
+            "k": { ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 3000" },
+            "w": { ".validate": "newData.isBoolean()" },
+            "ts": { ".validate": "newData.val() == now" },
+            "$other": { ".validate": false }
+          }
+        }
+      }
+    }
+  }
+}
