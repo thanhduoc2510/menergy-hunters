@@ -25,7 +25,7 @@ Luật này chỉ cho phép: đọc điểm, và thêm điểm mới đúng đ�
 - Có tên không phù hợp: bấm vào dòng đó trên bảng để ẩn. Bấm **U** để hiện lại tất cả.
 
 ## Phím trình diễn trong game (máy tính)
-F toàn màn hình · M tắt tiếng · − và + chỉnh nhạc nền · dấu phẩy và dấu chấm chỉnh hiệu ứng · B phóng to chữ cho máy chiếu.
+P tạm dừng · G bất tử khi trình diễn (ván đó không tính lên bảng) · F toàn màn hình · M tắt tiếng · − và + chỉnh nhạc nền · dấu phẩy và dấu chấm chỉnh hiệu ứng · B phóng to chữ cho máy chiếu.
 Thêm `?show=1` vào link game để bật chữ lớn ngay từ đầu.
 
 ## Nếu mất mạng

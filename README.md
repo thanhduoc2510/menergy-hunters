@@ -14,4 +14,4 @@ Mini game sinh tồn 80 giây, dự thi MEN GEN GAME (MENergy – FSOFT MEN'S DA
 
 Công cụ AI: Claude (Anthropic) viết code, vẽ bối cảnh, tạo nhạc và âm thanh bằng code.
 Sprite nhân vật: Tiny RPG Character Asset Pack 01 và 02 của Zerie (đã mua bản quyền), chỉ dùng trong game này.
-Mã QR: thư viện qrcode-generator (giấy phép MIT).
+Mã QR: thư viện qrcode-generator (giấy phép MIT). Font: Bungee và Be Vietnam Pro (giấy phép SIL OFL 1.1), nhúng sẵn trong file.
