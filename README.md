@@ -12,6 +12,6 @@ Mini game sinh tồn 80 giây, dự thi MEN GEN GAME (MENergy – FSOFT MEN'S DA
 - `firebase-rules.json`: luật bảo mật dán vào Firebase.
 - `HUONG-DAN-FIREBASE.md`: các bước cài đặt.
 
-Công cụ AI: Claude (Anthropic) viết code, vẽ bối cảnh, tạo nhạc và âm thanh bằng code.
-Sprite nhân vật: Tiny RPG Character Asset Pack 01 và 02 của Zerie (đã mua bản quyền), chỉ dùng trong game này.
+Công cụ AI: Claude Opus 5.5 (Anthropic) viết code, vẽ bối cảnh, tạo nhạc và âm thanh bằng code.
+Sprite nhân vật: Tiny RPG Character Asset Pack 01 và 02, do tác giả Zerie (DuocNLT1) vẽ.
 Mã QR: thư viện qrcode-generator (giấy phép MIT). Font: Bungee và Be Vietnam Pro (giấy phép SIL OFL 1.1), nhúng sẵn trong file.
